@@ -1,0 +1,4 @@
+interface:
+  display_name: "伪逆向 · Mimicraft"
+  short_description: "观察产品行为，确认架构与技术栈，独立开发并逐条验证完整功能清单"
+  default_prompt: "使用 $mimicraft-rebuild，从我指定的产品及范围开始，先调查功能和环境，安装缺失工具及决定产品形态、技术栈前与我确认，再推进独立实现和验收。"

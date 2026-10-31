@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="860" viewBox="0 0 1800 860" role="img" aria-labelledby="title"><title id="title">四阶段工作流及验证反馈</title><rect width="1800" height="860" fill="#050505"/>
+<text x="80" y="104" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="49" fill="#EAEAEA" font-weight="400">01 / THE REBUILD LOOP</text>
+<text x="80" y="169" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="34" fill="#9A9A9A" font-weight="400">先研究行为，再确认方案；开发与验收按同一份规格推进。</text>
+<rect x="80" y="270" width="350" height="300" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="107" y="324" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="29" fill="#9A9A9A" font-weight="400">01</text>
+<text x="107" y="408" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="48" fill="#EAEAEA" font-weight="700">调查与记录</text>
+<text x="107" y="472" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" fill="#9A9A9A" font-weight="400">知识 / 官网 / 实机</text>
+<text x="107" y="525" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" fill="#9A9A9A" font-weight="400">功能、UI、状态与边界</text>
+<polyline points="443,420 495,420" fill="none" stroke="#EAEAEA" stroke-width="3"/>
+<polygon points="495,420 484,413 484,427" fill="#EAEAEA"/>
+<rect x="510" y="270" width="350" height="300" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="537" y="324" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="29" fill="#9A9A9A" font-weight="400">02</text>
+<text x="537" y="408" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="48" fill="#EAEAEA" font-weight="700">规格与架构</text>
+<text x="537" y="472" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" fill="#9A9A9A" font-weight="400">Markdown / 用例</text>
+<text x="537" y="525" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" fill="#9A9A9A" font-weight="400">产品形态与技术栈先确认</text>
+<polyline points="873,420 925,420" fill="none" stroke="#EAEAEA" stroke-width="3"/>
+<polygon points="925,420 914,413 914,427" fill="#EAEAEA"/>
+<rect x="940" y="270" width="350" height="300" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="967" y="324" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="29" fill="#9A9A9A" font-weight="400">03</text>
+<text x="967" y="408" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="48" fill="#EAEAEA" font-weight="700">独立实现</text>
+<text x="967" y="472" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" fill="#9A9A9A" font-weight="400">原创界面与代码</text>
+<text x="967" y="525" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" fill="#9A9A9A" font-weight="400">按依赖打通完整工作流</text>
+<polyline points="1303,420 1355,420" fill="none" stroke="#EAEAEA" stroke-width="3"/>
+<polygon points="1355,420 1344,413 1344,427" fill="#EAEAEA"/>
+<rect x="1370" y="270" width="350" height="300" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="1397" y="324" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="29" fill="#9A9A9A" font-weight="400">04</text>
+<text x="1397" y="408" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="48" fill="#EAEAEA" font-weight="700">验收与修复</text>
+<text x="1397" y="472" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" fill="#9A9A9A" font-weight="400">静态检查 / 真机</text>
+<text x="1397" y="525" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" fill="#9A9A9A" font-weight="400">逐项核对清单并回归</text>
+<polyline points="1545,590 1545,685 255,685 255,590" fill="none" stroke="#EAEAEA" stroke-width="2"/>
+<polyline points="255,635 255,590" fill="none" stroke="#EAEAEA" stroke-width="3"/>
+<polygon points="255,590 248,601 262,601" fill="#EAEAEA"/>
+<text x="650" y="682" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="32" fill="#EAEAEA" font-weight="400">GAP -&gt; FIX -&gt; RETEST</text>
+<text x="80" y="797" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="32" fill="#9A9A9A" font-weight="400">发现缺口就修订证据或合同；分期开发仍保留完整功能清单。</text>
+</svg>

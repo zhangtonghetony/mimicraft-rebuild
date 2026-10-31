@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="830" viewBox="0 0 1800 830" role="img" aria-labelledby="title"><title id="title">来源、观察、功能、合同、用例和结果的追溯关系</title><rect width="1800" height="830" fill="#050505"/>
+<text x="80" y="104" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="49" fill="#EAEAEA" font-weight="400">02 / EVERY CLAIM HAS A TRAIL</text>
+<text x="80" y="169" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="34" fill="#9A9A9A" font-weight="400">实测、报告与公开陈述，与推断设计分别记录。</text>
+<rect x="80" y="225" width="520" height="135" fill="#121212" stroke="#414141" stroke-width="2"/>
+<text x="105" y="269" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="27" fill="#EAEAEA" font-weight="400">O / U / S / W</text>
+<text x="105" y="329" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" fill="#9A9A9A" font-weight="400">目标实测 / 用户 / 截图 / 网页</text>
+<rect x="640" y="225" width="520" height="135" fill="#121212" stroke="#414141" stroke-width="2"/>
+<text x="665" y="269" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="27" fill="#EAEAEA" font-weight="400">H / D</text>
+<text x="665" y="329" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" fill="#9A9A9A" font-weight="400">待验假设 / 自主设计</text>
+<rect x="1200" y="225" width="520" height="135" fill="#121212" stroke="#414141" stroke-width="2"/>
+<text x="1225" y="269" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="27" fill="#EAEAEA" font-weight="400">IMPLEMENTED != VERIFIED</text>
+<text x="1225" y="329" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" fill="#9A9A9A" font-weight="400">实现状态与验收状态分开</text>
+<rect x="80" y="445" width="240" height="170" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="100" y="506" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="37" fill="#EAEAEA" font-weight="400">SRC</text>
+<text x="100" y="575" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" fill="#9A9A9A" font-weight="400">来源</text>
+<polyline points="328,530 350,530" fill="none" stroke="#EAEAEA" stroke-width="3"/>
+<polygon points="350,530 339,523 339,537" fill="#EAEAEA"/>
+<rect x="360" y="445" width="240" height="170" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="380" y="506" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="37" fill="#EAEAEA" font-weight="400">OBS</text>
+<text x="380" y="575" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" fill="#9A9A9A" font-weight="400">操作观察</text>
+<polyline points="608,530 630,530" fill="none" stroke="#EAEAEA" stroke-width="3"/>
+<polygon points="630,530 619,523 619,537" fill="#EAEAEA"/>
+<rect x="640" y="445" width="240" height="170" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="660" y="506" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="37" fill="#EAEAEA" font-weight="400">F</text>
+<text x="660" y="575" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" fill="#9A9A9A" font-weight="400">功能清单</text>
+<polyline points="888,530 910,530" fill="none" stroke="#EAEAEA" stroke-width="3"/>
+<polygon points="910,530 899,523 899,537" fill="#EAEAEA"/>
+<rect x="920" y="445" width="240" height="170" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="940" y="506" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="37" fill="#EAEAEA" font-weight="400">BEH</text>
+<text x="940" y="575" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" fill="#9A9A9A" font-weight="400">行为合同</text>
+<polyline points="1168,530 1190,530" fill="none" stroke="#EAEAEA" stroke-width="3"/>
+<polygon points="1190,530 1179,523 1179,537" fill="#EAEAEA"/>
+<rect x="1200" y="445" width="240" height="170" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="1220" y="506" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="37" fill="#EAEAEA" font-weight="400">TC</text>
+<text x="1220" y="575" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" fill="#9A9A9A" font-weight="400">验收用例</text>
+<polyline points="1448,530 1470,530" fill="none" stroke="#EAEAEA" stroke-width="3"/>
+<polygon points="1470,530 1459,523 1459,537" fill="#EAEAEA"/>
+<rect x="1480" y="445" width="240" height="170" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="1500" y="506" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="37" fill="#EAEAEA" font-weight="400">RUN / GAP</text>
+<text x="1500" y="575" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" fill="#9A9A9A" font-weight="400">结果与差异</text>
+<text x="80" y="742" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="42" fill="#EAEAEA" font-weight="700">有界面入口，不等于行为已验证。</text>
+<text x="80" y="799" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" fill="#9A9A9A" font-weight="400">通过 / 失败 / 阻塞 / 未执行，分别计数。</text>
+</svg>

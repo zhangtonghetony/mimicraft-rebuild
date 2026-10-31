@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="850" viewBox="0 0 1800 850" role="img" aria-labelledby="title"><title id="title">安装环境和关键架构选择的确认规则</title><rect width="1800" height="850" fill="#050505"/>
+<text x="80" y="104" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="49" fill="#EAEAEA" font-weight="400">03 / ASK WHERE IT MATTERS</text>
+<text x="80" y="169" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="34" fill="#9A9A9A" font-weight="400">推荐要具体，确认有记录；已经批准的范围不反复询问。</text>
+<rect x="80" y="245" width="580" height="160" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="112" y="335" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="43" fill="#EAEAEA" font-weight="700">缺失工具 / 环境</text>
+<polyline points="680,325 760,325" fill="none" stroke="#EAEAEA" stroke-width="3"/>
+<polygon points="760,325 749,318 749,332" fill="#EAEAEA"/>
+<rect x="780" y="269" width="240" height="112" fill="#050505" stroke="#EAEAEA" stroke-width="2"/>
+<text x="821" y="333" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="38" fill="#EAEAEA" font-weight="400">先确认</text>
+<polyline points="1040,325 1120,325" fill="none" stroke="#EAEAEA" stroke-width="3"/>
+<polygon points="1120,325 1109,318 1109,332" fill="#EAEAEA"/>
+<rect x="1140" y="245" width="580" height="160" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="1180" y="335" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="42" fill="#EAEAEA" font-weight="700">按批准范围安装</text>
+<rect x="80" y="505" width="580" height="160" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="112" y="595" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="43" fill="#EAEAEA" font-weight="700">产品形态 / 技术栈</text>
+<polyline points="680,585 760,585" fill="none" stroke="#EAEAEA" stroke-width="3"/>
+<polygon points="760,585 749,578 749,592" fill="#EAEAEA"/>
+<rect x="780" y="529" width="240" height="112" fill="#050505" stroke="#EAEAEA" stroke-width="2"/>
+<text x="821" y="593" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="38" fill="#EAEAEA" font-weight="400">先讨论</text>
+<polyline points="1040,585 1120,585" fill="none" stroke="#EAEAEA" stroke-width="3"/>
+<polygon points="1120,585 1109,578 1109,592" fill="#EAEAEA"/>
+<rect x="1140" y="505" width="580" height="160" fill="#050505" stroke="#414141" stroke-width="2"/>
+<text x="1180" y="595" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="42" fill="#EAEAEA" font-weight="700">确认后再实施</text>
+<text x="80" y="786" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="31" fill="#9A9A9A" font-weight="400">普通细节：自主设计并注明依据。</text>
+<text x="1050" y="786" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="31" fill="#9A9A9A" font-weight="400">已有授权：沿用有效范围。</text>
+</svg>
